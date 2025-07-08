@@ -1,4 +1,3 @@
-fatorial de um numero
 import java.util.Scanner;
 public class Program
 {
