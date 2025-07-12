@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class Switch{
      public static void main (String[] args) {
         
         System.out.println("Informe um numero de 1 a 12");
