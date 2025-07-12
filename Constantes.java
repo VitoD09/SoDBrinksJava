@@ -1,5 +1,5 @@
 /*Atividade: Crie uma constante para a gravidade (9.8) e mostre-a no console.*/
-public class Program
+public class Constantes
 {
     public static void main(String[] args) {
         final double gravidade = 9.8;
