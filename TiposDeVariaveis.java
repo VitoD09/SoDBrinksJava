@@ -1,5 +1,5 @@
 /*Atividade: Declare uma variável de cada tipo e exiba os valores no console.*/
-public class Program
+public class TiposDeVariaveis
 {
     public static void main(String[] args) {
         String nome = "Joao vitor";
