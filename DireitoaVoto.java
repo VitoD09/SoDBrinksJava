@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Program
+public class DireitoaVoto
 {
     public static void main(String[] args) {
         int idade;
